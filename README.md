@@ -22,3 +22,5 @@
      • user_empire_designs_v3.4.txt — файл с сохранёнными кастомными империями
 
      • README.md — описание 
+
+**Для обновления файла отправлять user_empire_designs_v3.4.txt в тг @Ausslaander**
